@@ -1,0 +1,19 @@
+2024.12.03 23:27:34 INFO  Started: Metals version 1.4.1 in folders 'C:\Users\PC\Desktop\Git' for client Visual Studio Code 1.95.3.
+2024.12.03 23:27:34 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.03 23:27:36 INFO  no build target found for C:\Users\PC\Desktop\Git\Sudoku.scala. Using presentation compiler with project's scala-library version: 3.3.4
+2024.12.03 23:27:37 INFO  Running List(C:\Users\PC\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\PC\Desktop\Git)
+2024.12.03 23:27:38 INFO  Attempting to connect to the build server...
+2024.12.03 23:27:38 INFO  Running BSP server List(C:\Users\PC\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\PC\Desktop\Git\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\PC\Desktop\Git\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\PC\Desktop\Git\.scala-build\ide-envs.json, C:\Users\PC\Desktop\Git)
+2024.12.03 23:27:38 WARN  Could not find semantic tokens for: file:///C:/Users/PC/Desktop/Git/Sudoku.scala
+2024.12.03 23:27:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\PC\Desktop\Git\.metals\bsp.trace.json or C:\Users\PC\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.12.03 23:27:40 INFO  time: Connected to build server in 2.68s
+2024.12.03 23:27:40 INFO  Connected to Build server: scala-cli v1.5.1
+2024.12.03 23:27:40 INFO  time: Imported build in 0.12s
+2024.12.03 23:27:40 INFO  running doctor check
+2024.12.03 23:27:40 INFO  java targets: Git_d55589685d-test, Git_d55589685d
+2024.12.03 23:27:41 INFO  compiling git_d55589685d (1 scala source)
+2024.12.03 23:27:41 INFO  time: compiled Git_d55589685d in 0.28s
+2024.12.03 23:27:48 WARN  Flyway upgrade recommended: H2 2.3.232 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.224.
+2024.12.03 23:27:50 INFO  time: indexed workspace in 9.69s
+2024.12.03 23:27:59 WARN  Could not find semantic tokens for: file:///C:/Users/PC/Desktop/Git/Sudoku.scala
+2024.12.03 23:27:59 WARN  Could not find semantic tokens for: file:///C:/Users/PC/Desktop/Git/Sudoku.scala

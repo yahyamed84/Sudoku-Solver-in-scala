@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "C:\\Users\\PC\\AppData\\Local\\Coursier\\data\\bin\\.scala-cli.aux.exe",
+    "bsp",
+    "--json-options",
+    "C:\\Users\\PC\\Desktop\\Git\\.scala-build\\ide-options-v2.json",
+    "--json-launcher-options",
+    "C:\\Users\\PC\\Desktop\\Git\\.scala-build\\ide-launcher-options.json",
+    "--envs-file",
+    "C:\\Users\\PC\\Desktop\\Git\\.scala-build\\ide-envs.json",
+    "C:\\Users\\PC\\Desktop\\Git"
+  ],
+  "version": "1.5.1",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
